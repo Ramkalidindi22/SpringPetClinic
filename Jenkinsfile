@@ -1,4 +1,4 @@
-ipeline{
+pipeline{
     agent{label 'master'}
     tools{maven 'M3'}
     stage{
